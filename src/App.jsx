@@ -4,8 +4,8 @@ function App() {
 
   return (
     <>
-      <div className="container m-3 text-center">
-        <h3>Higher Secondary Schoool </h3>
+      <div className="container ms-5 text-center">
+        <h3>Higher Secondary Schoool Form </h3>
         <Registration />
       </div>
     </>
